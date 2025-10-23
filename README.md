@@ -1,4 +1,11 @@
 # 💫 About Me:
+Aspiring Data Analyst with a strong foundation in the Python data ecosystem, dedicated to transforming raw data into clear, actionable insights. Currently deepening my expertise in core data manipulation and analysis libraries like Pandas and NumPy, and using SQL for efficient data querying and management.
+
+I am skilled in creating informative and compelling visualizations with Matplotlib and Seaborn to effectively communicate data-driven stories. Eager to expand my capabilities, I am now learning Scikit-learn to incorporate machine learning techniques into my analytical workflow.
+
+I am actively seeking to collaborate on data-driven projects, contribute to meaningful analysis, and apply my growing skill set to solve real-world problems. My repositories showcase my journey and hands-on experience in data cleaning, exploration, and visualization.
+
+Key Skills: Python (Pandas, NumPy), SQL, Data Visualization (Matplotlib, Seaborn), Data Wrangling, Statistical Analysis, Jupyter Notebooks, Beginner Machine Learning (Scikit-learn).
 🔭 I’m currently working on my Data Analysis Skills<br>👯 I’m looking to collaborate on Data Analysis Projects<br>🤝 I’m looking for help with Python | Data Analysis | Machine Learning<br>🌱 I’m currently learning Python | Data Analysis <br>💬 Ask me about Python | Data Analysis<br>⚡ Fun fact I think i'm Funny
 
 
